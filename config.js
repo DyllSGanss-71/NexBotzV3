@@ -25,11 +25,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/saep.02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
+global.sig = 'ga ada'
+global.syt = 'ga ada'
 global.sgh = 'https://github.com/SaepEp'
 global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
+global.swa = 'wa.me/6285795017445'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -42,8 +42,8 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
+global.nomorbot = '6285756864501'
+global.nomorown = '6285825017445'
 global.nomorown1 = '628812743180'
 global.namebot = 'NexBotz'
 global.nameown = 'NexEp'
